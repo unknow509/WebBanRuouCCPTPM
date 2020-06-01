@@ -13,7 +13,7 @@ namespace QLBRUOU.Controllers
     public class LienheController : Controller
     {
         dbQLBANRUOUDataContext data = new dbQLBANRUOUDataContext();
-        // GET: Lienhe
+        // GET: Lienhe khánh đã sửa nhẹ
         public ActionResult Index()
         {
             return View();
