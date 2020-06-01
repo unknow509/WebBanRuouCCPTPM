@@ -206,9 +206,11 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\AdminController.cs" />
     <Compile Include="Controllers\GioHangController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
+    <Compile Include="Controllers\NguoidungController.cs" />
     <Compile Include="Controllers\RuouController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -303,7 +305,9 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Content\assets\" />
+    <Folder Include="Views\Admin\" />
     <Folder Include="Views\GioHang\" />
+    <Folder Include="Views\Nguoidung\" />
     <Folder Include="Views\Ruou\" />
   </ItemGroup>
   <ItemGroup>
