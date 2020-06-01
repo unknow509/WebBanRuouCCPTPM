@@ -302,6 +302,14 @@
     <Content Include="Views\Manage\VerifyPhoneNumber.cshtml" />
     <Content Include="Views\Shared\Lockout.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
+    <Content Include="Views\Ruou\Index.cshtml" />
+    <Content Include="Views\Ruou\Loairuou.cshtml" />
+    <Content Include="Views\Ruou\xuatxu.cshtml" />
+    <Content Include="Views\Ruou\nhacungcap.cshtml" />
+    <Content Include="Views\Ruou\SPTheoNCC.cshtml" />
+    <Content Include="Views\Ruou\SPTheoXX.cshtml" />
+    <Content Include="Views\Ruou\SPTheoLoai.cshtml" />
+    <Content Include="Views\Ruou\ChiTietSP.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -310,7 +318,6 @@
     <Folder Include="Views\GioHang\" />
     <Folder Include="Views\Lienhe\" />
     <Folder Include="Views\Nguoidung\" />
-    <Folder Include="Views\Ruou\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
