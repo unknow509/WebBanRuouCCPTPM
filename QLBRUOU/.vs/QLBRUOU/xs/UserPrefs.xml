@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{B5FEBB27-43DE-4940-9F82-BF3ECC42AB4C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="QLBRUOU/Controllers/TimKiemController.cs">
+    <Files>
+      <File FileName="QLBRUOU/Controllers/HomeController.cs" Line="30" Column="2" />
+      <File FileName="QLBRUOU/Controllers/TimKiemController.cs" Line="49" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="QLBRUOU" expanded="True">
+            <Node name="QLBRUOU" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="TimKiemController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.QLBRUOU PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
