@@ -1,12 +1,11 @@
-﻿
-@{
+﻿@{
     ViewBag.Title = "Index";
     Layout = "~/Views/Shared/_LayoutUser.cshtml";
 }
 
 <div class="row">
     <div class="col-md-12 contact_tren">
-        <h3>ĐỊA CHỈ - LIÊN HỆ</h3>
+        <h3>ĐỊA CHỈ - LIÊN HỆ </h3>
         @using (Html.BeginForm("Guithongtin", "Lienhe", FormMethod.Post))
         {
             @Html.AntiForgeryToken()
@@ -49,8 +48,7 @@
             <div>
                 <!-- Load Facebook SDK for JavaScript -->
                 <div id="fb-root"></div>
-                <script>
-                    window.fbAsyncInit = function () {
+                <script>window.fbAsyncInit = function () {
                         FB.init({
                             xfbml: true,
                             version: 'v3.2'
@@ -75,8 +73,7 @@
         </div>
         <div class="col-md-7">
             <div id="map"></div>
-            <script>
-                function initMap() {
+            <script>function initMap() {
                     var uluru = { lat: 10.808703, lng: 106.716694 };
                     var map = new google.maps.Map(document.getElementById('map'), {
                         zoom: 16,
@@ -86,11 +83,9 @@
                         position: uluru,
                         map: map
                     });
-                }
-            </script>
+                }</script>
             <script async defer
-                    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC2U_dCsYw9D4jk7YZT9u-bkd66Lm98UZc&callback=initMap">
-            </script>
+                    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC2U_dCsYw9D4jk7YZT9u-bkd66Lm98UZc&callback=initMap"></script>
 
         </div>
     </div>
