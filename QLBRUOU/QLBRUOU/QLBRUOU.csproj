@@ -314,13 +314,17 @@
     <Content Include="Views\Ruou\SPTheoNCC.cshtml" />
     <Content Include="Views\Ruou\SPTheoXX.cshtml" />
     <Content Include="Views\Ruou\xuatxu.cshtml" />
+    <Content Include="Views\Lienhe\Index.cshtml" />
+    <Content Include="Views\Lienhe\Guithongtin.cshtml" />
+    <Content Include="Views\GioHang\Dathang.cshtml" />
+    <Content Include="Views\GioHang\GiohangPartial.cshtml" />
+    <Content Include="Views\GioHang\Giohang.cshtml" />
+    <Content Include="Views\GioHang\Xacnhandonhang.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Content\assets\" />
     <Folder Include="Views\Admin\" />
-    <Folder Include="Views\GioHang\" />
-    <Folder Include="Views\Lienhe\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
