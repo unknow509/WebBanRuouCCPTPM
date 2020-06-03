@@ -314,11 +314,26 @@
     <Content Include="Views\Ruou\SPTheoNCC.cshtml" />
     <Content Include="Views\Ruou\SPTheoXX.cshtml" />
     <Content Include="Views\Ruou\xuatxu.cshtml" />
+    <Content Include="Views\Admin\Chitietruou.cshtml" />
+    <Content Include="Views\Admin\Index.cshtml" />
+    <Content Include="Views\Admin\Login.cshtml" />
+    <Content Include="Views\Admin\Nhacungcap.cshtml" />
+    <Content Include="Views\Admin\Nhaxuatxu.cshtml" />
+    <Content Include="Views\Admin\Phanloai.cshtml" />
+    <Content Include="Views\Admin\QLDonhang.cshtml" />
+    <Content Include="Views\Admin\Suapl.cshtml" />
+    <Content Include="Views\Admin\Suaruou.cshtml" />
+    <Content Include="Views\Admin\Suaxx.cshtml" />
+    <Content Include="Views\Admin\themmoincc.cshtml" />
+    <Content Include="Views\Admin\themmoinxx.cshtml" />
+    <Content Include="Views\Admin\themmoipl.cshtml" />
+    <Content Include="Views\Admin\themmoiruou.cshtml" />
+    <Content Include="Views\Admin\xoancc.cshtml" />
+    <Content Include="Views\Admin\xoanxx.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Content\assets\" />
-    <Folder Include="Views\Admin\" />
     <Folder Include="Views\GioHang\" />
     <Folder Include="Views\Lienhe\" />
   </ItemGroup>
